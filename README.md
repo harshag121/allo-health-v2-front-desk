@@ -41,7 +41,7 @@ A modern, full-stack web application designed to streamline clinic operations th
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/manish3173/Clinic-Front-Desk-Management-System.git
+git clone https://github.com/harshag121/allo-health-v2-front-desk.git
 cd Clinic-Front-Desk-Management-System
 ```
 
