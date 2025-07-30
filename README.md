@@ -42,7 +42,7 @@ A modern, full-stack web application designed to streamline clinic operations th
 
 ```bash
 git clone https://github.com/harshag121/allo-health-v2-front-desk.git
-cd Clinic-Front-Desk-Management-System
+cd allo-health-v2-front-desk
 ```
 
 2. **Install dependencies**
